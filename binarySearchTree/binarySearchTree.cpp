@@ -1,4 +1,4 @@
-#include "binarySearch.hpp"
+#include "binarySearchTree.hpp"
 
 int main() {
     auto bst = BinarySearchTree();
